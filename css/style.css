@@ -9,6 +9,12 @@ body{
     font-family:"Roboto",sans-serif;
     color:#797979
 }
+.wrapper{
+    display: block;
+    background-color: #F4F4F4;
+    padding: 40px;
+    margin-top: 50px;
+}
 .logo_h img{
     width:50px ;
 }
@@ -2903,6 +2909,10 @@ h6{
     .single_portfolio{
         margin-bottom:35px
     }
+}
+.center{
+    display: flex;
+    justify-content: center;
 }
 .single_portfolio h3{
     display: flex;
