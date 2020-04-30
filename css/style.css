@@ -21,6 +21,10 @@ body{
 .font-color{
     color:#CC12DB;
 }
+.img-fluid-70{
+    max-width: 70%;
+    height: auto;
+}
 .logo_h img{
     width:50px ;
 }
