@@ -7,13 +7,19 @@ body{
     line-height:27px;
     font-weight:300;
     font-family:"Roboto",sans-serif;
-    color:#797979
+    color:#676767
 }
 .wrapper{
     display: block;
-    background-color: #F4F4F4;
+    background-color: #F8F8F8;
     padding: 40px;
     margin-top: 50px;
+}
+.mt-50{
+    margin-top: 50px;
+}
+.font-color{
+    color:#CC12DB;
 }
 .logo_h img{
     width:50px ;
