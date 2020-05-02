@@ -15,11 +15,18 @@ body{
     padding: 40px;
     margin-top: 50px;
 }
+.ml-30{
+    margin-left: 30%;
+}
 .mt-50{
     margin-top: 50px;
 }
 .font-color{
     color:#CC12DB;
+}
+.img-fluid-50{
+    max-width: 50%;
+    height: auto;
 }
 .img-fluid-70{
     max-width: 70%;
